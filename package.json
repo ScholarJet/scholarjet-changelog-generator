@@ -1,0 +1,25 @@
+{
+  "name": "scholarjet-changelog-generator",
+  "version": "0.1.0",
+  "description": "Tool to generate ScholarJet's changelogs",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScholarJet/scholarjet-changelog-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScholarJet/scholarjet-changelog-generator/issues"
+  },
+  "homepage": "https://github.com/ScholarJet/scholarjet-changelog-generator#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "jira-changelog": "^1.4.0",
+    "lodash": "^4.17.11"
+  }
+}
